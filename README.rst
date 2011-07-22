@@ -7,13 +7,15 @@ XC-5 Examples
 
 :Maintainer:  davelxmos
 
-:Description:  A collection of examples for the XC-5 development board
+:Description:  A collection of examples for the XC-5 development
+               board. Note these examples are provided for legacy use
+               only (the XC-5 is a discontinued product).
 
 
 Key Features
 ============
 
-* Simple examples for the XC-1A development board
+* Simple examples for the XC-5 development board
 * Used to create new project templates in the XDE
 
 
