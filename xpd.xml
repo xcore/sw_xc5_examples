@@ -10,6 +10,7 @@
     <location>git@github.com:xcore/sw_xc5_examples</location>
     <name>sw_xc5_examples</name>
     <maintainer>davelxmos</maintainer>
+    <release parenthash = "231c7f3ca64118895c49128f20bca91337791370" version = "1.0.0beta0"></release>
     <scope>example</scope>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
