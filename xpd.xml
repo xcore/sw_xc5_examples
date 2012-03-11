@@ -9,9 +9,12 @@
     <location>git@github.com:xcore/sw_xc5_examples</location>
     <name>sw_xc5_examples</name>
     <maintainer>davelxmos</maintainer>
+    <partnumber>XM-001645-DH</partnumber>
     <release parenthash = "231c7f3ca64118895c49128f20bca91337791370" version = "1.0.0beta0" githash = "e6b82253fea0a4d0a72edb5c94e611238dcc2811"></release>
     <release parenthash = "e2a79a196db2baad9025e1ae2ac224e160ebfec2" version = "1.0.0rc0" githash = "885b6d8df1ab8af681685c222290e82bbfe9147a"></release>
+    <release parenthash = "4f9dbeeefd1a88006313a3db8fd388b45a8dd045" version = "1.0.0rc1"></release>
     <scope>example</scope>
+    <subpartnumber>XM-000753-SM</subpartnumber>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
     <template name = "LED Example">
